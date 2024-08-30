@@ -2,7 +2,6 @@ import './App.css'
 
 function App() {
   return (
-    <>
       <div className="flex min-h-full min-w-full flex-1 flex-col justify-center">
         <header className="bg-gray-300 shadow">
           <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 text-center">
@@ -31,7 +30,6 @@ function App() {
           </div>
         </div>
       </div>
-    </>
   )
 }
 
